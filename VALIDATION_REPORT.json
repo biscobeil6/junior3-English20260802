@@ -1,0 +1,72 @@
+{
+  "trialCount": 50,
+  "expectedIds": "SE0001-SE0050",
+  "errors": [],
+  "allChecksPassed": true,
+  "contractionsFound": [
+    [
+      "SE0008",
+      [
+        "You're"
+      ]
+    ],
+    [
+      "SE0009",
+      [
+        "I'm",
+        "I'm"
+      ]
+    ],
+    [
+      "SE0018",
+      [
+        "don't"
+      ]
+    ],
+    [
+      "SE0019",
+      [
+        "You'd"
+      ]
+    ],
+    [
+      "SE0022",
+      [
+        "don't"
+      ]
+    ],
+    [
+      "SE0025",
+      [
+        "Let's",
+        "everyone's"
+      ]
+    ],
+    [
+      "SE0029",
+      [
+        "Let's"
+      ]
+    ],
+    [
+      "SE0032",
+      [
+        "That's"
+      ]
+    ],
+    [
+      "SE0035",
+      [
+        "I'm"
+      ]
+    ],
+    [
+      "SE0038",
+      [
+        "don't",
+        "that's"
+      ]
+    ]
+  ],
+  "hyphenatedFound": []
+}
