@@ -1,0 +1,2 @@
+index.html と questions.json を同じフォルダに置き、WebサーバーまたはGitHub Pagesで開いてください。
+ローカル確認例: python3 -m http.server 8000
