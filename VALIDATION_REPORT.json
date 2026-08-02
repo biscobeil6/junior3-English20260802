@@ -1,72 +1,175 @@
 {
-  "trialCount": 50,
-  "expectedIds": "SE0001-SE0050",
-  "errors": [],
-  "allChecksPassed": true,
-  "contractionsFound": [
-    [
-      "SE0008",
-      [
-        "You're"
-      ]
+  "title": "英単語 E00001-E00100 試作版 自動検査報告",
+  "version": "v1.1",
+  "summary": {
+    "passed": 19,
+    "total": 19,
+    "allPassed": true,
+    "integratedQuestionCount": 636
+  },
+  "checks": {
+    "master_id_continuity": {
+      "passed": true,
+      "detail": "E00001–E00100, 100件"
+    },
+    "json_id_continuity": {
+      "passed": true,
+      "detail": "E00001–E00100"
+    },
+    "no_duplicate_question_ids": {
+      "passed": true,
+      "detail": "100/100 unique"
+    },
+    "required_master_fields_nonblank": {
+      "passed": true,
+      "detail": "英単語・意味・例文・例文訳"
+    },
+    "master_json_core_match": {
+      "passed": true,
+      "detail": "ID・見出し語・意味・例文・訳が一致"
+    },
+    "metadata_alignment": {
+      "passed": true,
+      "detail": "品詞・重要度類"
+    },
+    "cloze_reconstructs_original": {
+      "passed": true,
+      "detail": "100/100"
+    },
+    "answers_nonblank": {
+      "passed": true,
+      "detail": "100/100"
+    },
+    "accepted_answers_present": {
+      "passed": true,
+      "detail": "100/100"
+    },
+    "merged_word_count": {
+      "passed": true,
+      "detail": "100"
+    },
+    "existing_sentence_count_preserved": {
+      "passed": true,
+      "detail": "500"
+    },
+    "existing_other_samples_preserved": {
+      "passed": true,
+      "detail": "Counter({'sentence': 500, 'word': 100, 'irregular-conjugation': 12, 'irregular-example': 12, 'phrase': 12})"
+    },
+    "all_question_ids_unique": {
+      "passed": true,
+      "detail": "636 unique"
+    },
+    "round_no_duplicate_invariant": {
+      "passed": true,
+      "detail": "同一周回はseen IDで除外可能"
+    },
+    "forbidden_guidance_absent": {
+      "passed": true,
+      "detail": "指定2文なし"
+    },
+    "handwriting_persistence_logic_present": {
+      "passed": true,
+      "detail": "回答表示時にstrokesを消去しない"
+    },
+    "rating_and_storage_logic_present": {
+      "passed": true,
+      "detail": "○△×・履歴・周回保存コード"
+    },
+    "javascript_syntax": {
+      "passed": true,
+      "detail": "node --check OK"
+    },
+    "json_parse": {
+      "passed": true,
+      "detail": "vocabulary / questions とも正常"
+    }
+  },
+  "individualProcessing": {
+    "inflectedOrCapitalizedAnswerIds": [
+      "E00001",
+      "E00006",
+      "E00007",
+      "E00008",
+      "E00009",
+      "E00010",
+      "E00011",
+      "E00012",
+      "E00018",
+      "E00020",
+      "E00022",
+      "E00024",
+      "E00029",
+      "E00031",
+      "E00032",
+      "E00035",
+      "E00036",
+      "E00042",
+      "E00043",
+      "E00044",
+      "E00045",
+      "E00046",
+      "E00047",
+      "E00048",
+      "E00049",
+      "E00051",
+      "E00052",
+      "E00054",
+      "E00055",
+      "E00057",
+      "E00058",
+      "E00059",
+      "E00061",
+      "E00062",
+      "E00063",
+      "E00064",
+      "E00066",
+      "E00067",
+      "E00068",
+      "E00069",
+      "E00071",
+      "E00072",
+      "E00076",
+      "E00081",
+      "E00082",
+      "E00083",
+      "E00084",
+      "E00086",
+      "E00088",
+      "E00089",
+      "E00090",
+      "E00092",
+      "E00093",
+      "E00094",
+      "E00095",
+      "E00098",
+      "E00100"
     ],
-    [
-      "SE0009",
-      [
-        "I'm",
-        "I'm"
-      ]
-    ],
-    [
-      "SE0018",
-      [
-        "don't"
-      ]
-    ],
-    [
-      "SE0019",
-      [
-        "You'd"
-      ]
-    ],
-    [
-      "SE0022",
-      [
-        "don't"
-      ]
-    ],
-    [
-      "SE0025",
-      [
-        "Let's",
-        "everyone's"
-      ]
-    ],
-    [
-      "SE0029",
-      [
-        "Let's"
-      ]
-    ],
-    [
-      "SE0032",
-      [
-        "That's"
-      ]
-    ],
-    [
-      "SE0035",
-      [
-        "I'm"
-      ]
-    ],
-    [
-      "SE0038",
-      [
-        "don't",
-        "that's"
-      ]
-    ]
-  ],
-  "hyphenatedFound": []
+    "count": 57,
+    "note": "例文原文の語形・文頭大文字を正解に採用。見出し語は別フィールドで保持。"
+  },
+  "browserTest": {
+    "status": "not_completed",
+    "note": "コンテナ内Chromiumのヘッドレス描画が環境依存で停止したため、Node構文検査・JSON整合性・静的ロジック検査まで実施。実機iPadで手書き入力と画面収まりを確認してください。"
+  },
+  "columnMapping": {
+    "単語ID": "sourceId",
+    "英単語": "headword",
+    "品詞": "partOfSpeech",
+    "中核的な意味": "meaning",
+    "初出目安": "firstAppearance",
+    "総合重要度": "importance",
+    "書き取り重要度": "writingImportance",
+    "読解重要度": "readingImportance",
+    "入試重要度": "examImportance",
+    "発信／受容": "receptionProduction",
+    "活用・語形": "inflection",
+    "不規則動詞対象": "irregularVerbTarget",
+    "語族・関連語": "wordFamily",
+    "注意事項": "notes",
+    "例文": "example / parts",
+    "例文訳": "exampleTranslation / japanese",
+    "選定区分": "selectionCategory",
+    "重要な別義": "importantSecondaryMeaning"
+  }
 }

@@ -1,0 +1,4011 @@
+{
+  "schemaVersion": "1.1",
+  "datasetVersion": "word-E00001-E00100-v1.0",
+  "title": "中3英語 英単語問題 E00001-E00100",
+  "counts": {
+    "word": 100,
+    "total": 100
+  },
+  "questions": [
+    {
+      "enabled": true,
+      "id": "W-E00001",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00001",
+      "label": "英単語",
+      "japanese": "ここにいられてうれしいです。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " happy to be here."
+      ],
+      "answerParts": [
+        "am"
+      ],
+      "answer": "am",
+      "headword": "be",
+      "meaning": "～である、いる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "am / is / are; was / were; been",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "主語・時制により形が大きく変わる。",
+      "example": "I am happy to be here.",
+      "exampleTranslation": "ここにいられてうれしいです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "存在する、起こる",
+      "acceptedAnswers": [
+        "am"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00002",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00002",
+      "label": "英単語",
+      "japanese": "私は新しいノートを持っています。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " a new notebook."
+      ],
+      "answerParts": [
+        "have"
+      ],
+      "answer": "have",
+      "headword": "have",
+      "meaning": "持っている、～がある",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "has; had; had",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "助動詞的用法（現在完了）にも用いる。",
+      "example": "I have a new notebook.",
+      "exampleTranslation": "私は新しいノートを持っています。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "経験する、食べる・飲む",
+      "acceptedAnswers": [
+        "have"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00003",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00003",
+      "label": "英単語",
+      "japanese": "あなたは放課後に何をしますか。",
+      "parts": [
+        "What do you ",
+        {
+          "blank": 0
+        },
+        " after school?"
+      ],
+      "answerParts": [
+        "do"
+      ],
+      "answer": "do",
+      "headword": "do",
+      "meaning": "する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "does; did; done",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "一般動詞のほか、疑問文・否定文を作る助動詞として重要。",
+      "example": "What do you do after school?",
+      "exampleTranslation": "あなたは放課後に何をしますか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "（仕事などを）行う、十分である",
+      "acceptedAnswers": [
+        "do"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00004",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00004",
+      "label": "英単語",
+      "japanese": "私たちはバスで学校へ行きます。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " to school by bus."
+      ],
+      "answerParts": [
+        "go"
+      ],
+      "answer": "go",
+      "headword": "go",
+      "meaning": "行く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "goes; went; gone",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We go to school by bus.",
+      "exampleTranslation": "私たちはバスで学校へ行きます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "go"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00005",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00005",
+      "label": "英単語",
+      "japanese": "明日、私の家に来てください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " to my house tomorrow."
+      ],
+      "answerParts": [
+        "come"
+      ],
+      "answer": "come",
+      "headword": "come",
+      "meaning": "来る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "comes; came; come",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please come to my house tomorrow.",
+      "exampleTranslation": "明日、私の家に来てください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "come"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00006",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00006",
+      "label": "英単語",
+      "japanese": "私はケンから手紙を受け取りました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " a letter from Ken."
+      ],
+      "answerParts": [
+        "got"
+      ],
+      "answer": "got",
+      "headword": "get",
+      "meaning": "得る、～になる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "gets; got; got/gotten",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "「得る」「到着する」「～になる」など多義。",
+      "example": "I got a letter from Ken.",
+      "exampleTranslation": "私はケンから手紙を受け取りました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "到着する、～になる、理解する",
+      "acceptedAnswers": [
+        "got"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00007",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00007",
+      "label": "英単語",
+      "japanese": "父は日曜日に夕食を作ります。",
+      "parts": [
+        "My father ",
+        {
+          "blank": 0
+        },
+        " dinner on Sundays."
+      ],
+      "answerParts": [
+        "makes"
+      ],
+      "answer": "makes",
+      "headword": "make",
+      "meaning": "作る、～させる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "makes; made; made",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "My father makes dinner on Sundays.",
+      "exampleTranslation": "父は日曜日に夕食を作ります。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～させる、（金額を）稼ぐ",
+      "acceptedAnswers": [
+        "makes"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00008",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00008",
+      "label": "英単語",
+      "japanese": "そこまで歩くのに10分かかります。",
+      "parts": [
+        "It ",
+        {
+          "blank": 0
+        },
+        " ten minutes to walk there."
+      ],
+      "answerParts": [
+        "takes"
+      ],
+      "answer": "takes",
+      "headword": "take",
+      "meaning": "取る、連れて行く、（時間が）かかる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "takes; took; taken",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "「取る」「連れて行く」「時間がかかる」など多義。",
+      "example": "It takes ten minutes to walk there.",
+      "exampleTranslation": "そこまで歩くのに10分かかります。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "連れて行く、（時間が）かかる、受ける",
+      "acceptedAnswers": [
+        "takes"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00009",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00009",
+      "label": "英単語",
+      "japanese": "彼女は私に助言をくれました。",
+      "parts": [
+        "She ",
+        {
+          "blank": 0
+        },
+        " me some advice."
+      ],
+      "answerParts": [
+        "gave"
+      ],
+      "answer": "gave",
+      "headword": "give",
+      "meaning": "与える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "gives; gave; given",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "She gave me some advice.",
+      "exampleTranslation": "彼女は私に助言をくれました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "（行為を）する、伝える",
+      "acceptedAnswers": [
+        "gave"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00010",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00010",
+      "label": "英単語",
+      "japanese": "私は美しい鳥を見ました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " a beautiful bird."
+      ],
+      "answerParts": [
+        "saw"
+      ],
+      "answer": "saw",
+      "headword": "see",
+      "meaning": "見る、会う、分かる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "sees; saw; seen",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "「見る」のほか「会う」「分かる」も重要。",
+      "example": "I saw a beautiful bird.",
+      "exampleTranslation": "私は美しい鳥を見ました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "会う、理解する",
+      "acceptedAnswers": [
+        "saw"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00011",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00011",
+      "label": "英単語",
+      "japanese": "この写真を見てください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " at this picture."
+      ],
+      "answerParts": [
+        "Look"
+      ],
+      "answer": "Look",
+      "headword": "look",
+      "meaning": "見る、～に見える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "looks; looked; looked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "look at / look for / look like など連語が多い。",
+      "example": "Look at this picture.",
+      "exampleTranslation": "この写真を見てください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～に見える",
+      "acceptedAnswers": [
+        "Look"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00012",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00012",
+      "label": "英単語",
+      "japanese": "私たちはサッカーの試合を見ました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " a soccer game."
+      ],
+      "answerParts": [
+        "watched"
+      ],
+      "answer": "watched",
+      "headword": "watch",
+      "meaning": "注意して見る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "watches; watched; watched",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We watched a soccer game.",
+      "exampleTranslation": "私たちはサッカーの試合を見ました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "注意して見る、見守る",
+      "acceptedAnswers": [
+        "watched"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00013",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00013",
+      "label": "英単語",
+      "japanese": "あなたは彼女の名前を知っていますか。",
+      "parts": [
+        "Do you ",
+        {
+          "blank": 0
+        },
+        " her name?"
+      ],
+      "answerParts": [
+        "know"
+      ],
+      "answer": "know",
+      "headword": "know",
+      "meaning": "知っている",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "knows; knew; known",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "knowledge",
+      "notes": "",
+      "example": "Do you know her name?",
+      "exampleTranslation": "あなたは彼女の名前を知っていますか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "分かっている、見分ける",
+      "acceptedAnswers": [
+        "know"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00014",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00014",
+      "label": "英単語",
+      "japanese": "私はこの本が役に立つと思います。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " this book is useful."
+      ],
+      "answerParts": [
+        "think"
+      ],
+      "answer": "think",
+      "headword": "think",
+      "meaning": "思う、考える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "thinks; thought; thought",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "thought",
+      "notes": "",
+      "example": "I think this book is useful.",
+      "exampleTranslation": "私はこの本が役に立つと思います。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "考える、～と思う",
+      "acceptedAnswers": [
+        "think"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00015",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00015",
+      "label": "英単語",
+      "japanese": "私はカナダを訪れたいです。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " to visit Canada."
+      ],
+      "answerParts": [
+        "want"
+      ],
+      "answer": "want",
+      "headword": "want",
+      "meaning": "欲しい、～したい",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "wants; wanted; wanted",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I want to visit Canada.",
+      "exampleTranslation": "私はカナダを訪れたいです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "want"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00016",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00016",
+      "label": "英単語",
+      "japanese": "私たちにはもっと時間が必要です。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " more time."
+      ],
+      "answerParts": [
+        "need"
+      ],
+      "answer": "need",
+      "headword": "need",
+      "meaning": "必要とする",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "needs; needed; needed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We need more time.",
+      "exampleTranslation": "私たちにはもっと時間が必要です。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "need"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00017",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00017",
+      "label": "英単語",
+      "japanese": "私はピアノを弾くことが好きです。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " playing the piano."
+      ],
+      "answerParts": [
+        "like"
+      ],
+      "answer": "like",
+      "headword": "like",
+      "meaning": "好む",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "likes; liked; liked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I like playing the piano.",
+      "exampleTranslation": "私はピアノを弾くことが好きです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "like"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00018",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00018",
+      "label": "英単語",
+      "japanese": "彼女は動物が大好きです。",
+      "parts": [
+        "She ",
+        {
+          "blank": 0
+        },
+        " animals."
+      ],
+      "answerParts": [
+        "loves"
+      ],
+      "answer": "loves",
+      "headword": "love",
+      "meaning": "愛する、大好きである",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "loves; loved; loved",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "She loves animals.",
+      "exampleTranslation": "彼女は動物が大好きです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "loves"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00019",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00019",
+      "label": "英単語",
+      "japanese": "私の辞書を使ってもよいです。",
+      "parts": [
+        "You can ",
+        {
+          "blank": 0
+        },
+        " my dictionary."
+      ],
+      "answerParts": [
+        "use"
+      ],
+      "answer": "use",
+      "headword": "use",
+      "meaning": "使う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "uses; used; used",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "You can use my dictionary.",
+      "exampleTranslation": "私の辞書を使ってもよいです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "use"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00020",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00020",
+      "label": "英単語",
+      "japanese": "私は机の下で鍵を見つけました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " my key under the desk."
+      ],
+      "answerParts": [
+        "found"
+      ],
+      "answer": "found",
+      "headword": "find",
+      "meaning": "見つける、分かる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "finds; found; found",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I found my key under the desk.",
+      "exampleTranslation": "私は机の下で鍵を見つけました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～だと分かる",
+      "acceptedAnswers": [
+        "found"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00021",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00021",
+      "label": "英単語",
+      "japanese": "私に本当のことを教えてください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " me the truth."
+      ],
+      "answerParts": [
+        "tell"
+      ],
+      "answer": "tell",
+      "headword": "tell",
+      "meaning": "話す、伝える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "tells; told; told",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "tell + 人 + 内容 の語順が重要。",
+      "example": "Please tell me the truth.",
+      "exampleTranslation": "私に本当のことを教えてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "見分ける、命じる",
+      "acceptedAnswers": [
+        "tell"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00022",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00022",
+      "label": "英単語",
+      "japanese": "彼は忙しいと言いました。",
+      "parts": [
+        "He ",
+        {
+          "blank": 0
+        },
+        " that he was busy."
+      ],
+      "answerParts": [
+        "said"
+      ],
+      "answer": "said",
+      "headword": "say",
+      "meaning": "言う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "says; said; said",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "目的語に人を直接置かない点に注意。",
+      "example": "He said that he was busy.",
+      "exampleTranslation": "彼は忙しいと言いました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "（表示などが）～と書いてある",
+      "acceptedAnswers": [
+        "said"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00023",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00023",
+      "label": "英単語",
+      "japanese": "あなたは英語を話せますか。",
+      "parts": [
+        "Can you ",
+        {
+          "blank": 0
+        },
+        " English?"
+      ],
+      "answerParts": [
+        "speak"
+      ],
+      "answer": "speak",
+      "headword": "speak",
+      "meaning": "話す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "speaks; spoke; spoken",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "speech",
+      "notes": "言語を話す、改まって話す。talkとの使い分け。",
+      "example": "Can you speak English?",
+      "exampleTranslation": "あなたは英語を話せますか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "演説する、話しかける",
+      "acceptedAnswers": [
+        "speak"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00024",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00024",
+      "label": "英単語",
+      "japanese": "私たちは将来について話しました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " about our future."
+      ],
+      "answerParts": [
+        "talked"
+      ],
+      "answer": "talked",
+      "headword": "talk",
+      "meaning": "話す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "talks; talked; talked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We talked about our future.",
+      "exampleTranslation": "私たちは将来について話しました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "相談する、話し合う",
+      "acceptedAnswers": [
+        "talked"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00025",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00025",
+      "label": "英単語",
+      "japanese": "あなたに質問してもよいですか。",
+      "parts": [
+        "May I ",
+        {
+          "blank": 0
+        },
+        " you a question?"
+      ],
+      "answerParts": [
+        "ask"
+      ],
+      "answer": "ask",
+      "headword": "ask",
+      "meaning": "尋ねる、頼む",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "asks; asked; asked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "May I ask you a question?",
+      "exampleTranslation": "あなたに質問してもよいですか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "ask"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00026",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00026",
+      "label": "英単語",
+      "japanese": "その質問に答えてください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " the question."
+      ],
+      "answerParts": [
+        "answer"
+      ],
+      "answer": "answer",
+      "headword": "answer",
+      "meaning": "答える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "answers; answered; answered",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please answer the question.",
+      "exampleTranslation": "その質問に答えてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "answer"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00027",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00027",
+      "label": "英単語",
+      "japanese": "今夜あなたに電話します。",
+      "parts": [
+        "I will ",
+        {
+          "blank": 0
+        },
+        " you tonight."
+      ],
+      "answerParts": [
+        "call"
+      ],
+      "answer": "call",
+      "headword": "call",
+      "meaning": "呼ぶ、電話する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "calls; called; called",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I will call you tonight.",
+      "exampleTranslation": "今夜あなたに電話します。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "電話する、～と呼ぶ",
+      "acceptedAnswers": [
+        "call"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00028",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00028",
+      "label": "英単語",
+      "japanese": "この箱を運ぶのを手伝ってくれますか。",
+      "parts": [
+        "Could you ",
+        {
+          "blank": 0
+        },
+        " me with this box?"
+      ],
+      "answerParts": [
+        "help"
+      ],
+      "answer": "help",
+      "headword": "help",
+      "meaning": "助ける",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "helps; helped; helped",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Could you help me with this box?",
+      "exampleTranslation": "この箱を運ぶのを手伝ってくれますか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "help"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00029",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00029",
+      "label": "英単語",
+      "japanese": "母は病院で働いています。",
+      "parts": [
+        "My mother ",
+        {
+          "blank": 0
+        },
+        " at a hospital."
+      ],
+      "answerParts": [
+        "works"
+      ],
+      "answer": "works",
+      "headword": "work",
+      "meaning": "働く、機能する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "works; worked; worked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "My mother works at a hospital.",
+      "exampleTranslation": "母は病院で働いています。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "機能する、うまくいく",
+      "acceptedAnswers": [
+        "works"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00030",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00030",
+      "label": "英単語",
+      "japanese": "私は毎日英語を勉強します。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " English every day."
+      ],
+      "answerParts": [
+        "study"
+      ],
+      "answer": "study",
+      "headword": "study",
+      "meaning": "勉強する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "studies; studied; studied",
+      "irregularVerbTarget": "",
+      "wordFamily": "student",
+      "notes": "",
+      "example": "I study English every day.",
+      "exampleTranslation": "私は毎日英語を勉強します。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "study"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00031",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00031",
+      "label": "英単語",
+      "japanese": "私たちはその旅行から多くを学びました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " a lot from the trip."
+      ],
+      "answerParts": [
+        "learned"
+      ],
+      "answer": "learned",
+      "headword": "learn",
+      "meaning": "学ぶ、身に付ける",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "learns; learned/learnt; learned/learnt",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "learn from / learn about / learn to do を確認。",
+      "example": "We learned a lot from the trip.",
+      "exampleTranslation": "私たちはその旅行から多くを学びました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "知る、覚える",
+      "acceptedAnswers": [
+        "learned"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00032",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00032",
+      "label": "英単語",
+      "japanese": "ブラウン先生は私たちに理科を教えます。",
+      "parts": [
+        "Mr. Brown ",
+        {
+          "blank": 0
+        },
+        " us science."
+      ],
+      "answerParts": [
+        "teaches"
+      ],
+      "answer": "teaches",
+      "headword": "teach",
+      "meaning": "教える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "teaches; taught; taught",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "teacher",
+      "notes": "",
+      "example": "Mr. Brown teaches us science.",
+      "exampleTranslation": "ブラウン先生は私たちに理科を教えます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "teaches"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00033",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00033",
+      "label": "英単語",
+      "japanese": "私は毎朝新聞を読みます。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " the newspaper every morning."
+      ],
+      "answerParts": [
+        "read"
+      ],
+      "answer": "read",
+      "headword": "read",
+      "meaning": "読む",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "reads; read; read",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "過去形・過去分詞も綴りはreadだが発音が異なる。",
+      "example": "I read the newspaper every morning.",
+      "exampleTranslation": "私は毎朝新聞を読みます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～と読める、読み取る",
+      "acceptedAnswers": [
+        "read"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00034",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00034",
+      "label": "英単語",
+      "japanese": "ここに名前を書いてください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " your name here."
+      ],
+      "answerParts": [
+        "write"
+      ],
+      "answer": "write",
+      "headword": "write",
+      "meaning": "書く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "writes; wrote; written",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please write your name here.",
+      "exampleTranslation": "ここに名前を書いてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "手紙を書く、書き記す",
+      "acceptedAnswers": [
+        "write"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00035",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00035",
+      "label": "英単語",
+      "japanese": "先生の話を注意して聞きなさい。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " carefully to the teacher."
+      ],
+      "answerParts": [
+        "Listen"
+      ],
+      "answer": "Listen",
+      "headword": "listen",
+      "meaning": "聞く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "listens; listened; listened",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Listen carefully to the teacher.",
+      "exampleTranslation": "先生の話を注意して聞きなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "Listen"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00036",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00036",
+      "label": "英単語",
+      "japanese": "私は奇妙な音を聞きました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " a strange sound."
+      ],
+      "answerParts": [
+        "heard"
+      ],
+      "answer": "heard",
+      "headword": "hear",
+      "meaning": "聞こえる、耳にする",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "hears; heard; heard",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "自然に耳に入る。listenとの使い分け。",
+      "example": "I heard a strange sound.",
+      "exampleTranslation": "私は奇妙な音を聞きました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "知らせを受ける",
+      "acceptedAnswers": [
+        "heard"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00037",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00037",
+      "label": "英単語",
+      "japanese": "切符を見せてください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " me your ticket."
+      ],
+      "answerParts": [
+        "show"
+      ],
+      "answer": "show",
+      "headword": "show",
+      "meaning": "見せる、示す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "shows; showed; shown/showed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please show me your ticket.",
+      "exampleTranslation": "切符を見せてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "示す、案内する",
+      "acceptedAnswers": [
+        "show"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00038",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00038",
+      "label": "英単語",
+      "japanese": "彼らは放課後にテニスをします。",
+      "parts": [
+        "They ",
+        {
+          "blank": 0
+        },
+        " tennis after school."
+      ],
+      "answerParts": [
+        "play"
+      ],
+      "answer": "play",
+      "headword": "play",
+      "meaning": "遊ぶ、競技する、演奏する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "plays; played; played",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "They play tennis after school.",
+      "exampleTranslation": "彼らは放課後にテニスをします。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "演奏する、役を演じる",
+      "acceptedAnswers": [
+        "play"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00039",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00039",
+      "label": "英単語",
+      "japanese": "彼はとても速く走れます。",
+      "parts": [
+        "He can ",
+        {
+          "blank": 0
+        },
+        " very fast."
+      ],
+      "answerParts": [
+        "run"
+      ],
+      "answer": "run",
+      "headword": "run",
+      "meaning": "走る、運営する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "runs; ran; run",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "He can run very fast.",
+      "exampleTranslation": "彼はとても速く走れます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "運営する、流れる",
+      "acceptedAnswers": [
+        "run"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00040",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00040",
+      "label": "英単語",
+      "japanese": "私は姉と歩いて学校へ行きます。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " to school with my sister."
+      ],
+      "answerParts": [
+        "walk"
+      ],
+      "answer": "walk",
+      "headword": "walk",
+      "meaning": "歩く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "walks; walked; walked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I walk to school with my sister.",
+      "exampleTranslation": "私は姉と歩いて学校へ行きます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "walk"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00041",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00041",
+      "label": "英単語",
+      "japanese": "祖父母は京都に住んでいます。",
+      "parts": [
+        "My grandparents ",
+        {
+          "blank": 0
+        },
+        " in Kyoto."
+      ],
+      "answerParts": [
+        "live"
+      ],
+      "answer": "live",
+      "headword": "live",
+      "meaning": "住む、生きる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "lives; lived; lived",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "My grandparents live in Kyoto.",
+      "exampleTranslation": "祖父母は京都に住んでいます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "生きる、暮らす",
+      "acceptedAnswers": [
+        "live"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00042",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00042",
+      "label": "英単語",
+      "japanese": "私たちは小さなホテルに泊まりました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " at a small hotel."
+      ],
+      "answerParts": [
+        "stayed"
+      ],
+      "answer": "stayed",
+      "headword": "stay",
+      "meaning": "滞在する、とどまる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "stays; stayed; stayed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We stayed at a small hotel.",
+      "exampleTranslation": "私たちは小さなホテルに泊まりました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～のままでいる",
+      "acceptedAnswers": [
+        "stayed"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00043",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00043",
+      "label": "英単語",
+      "japanese": "私は昨日、昔の友人に会いました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " my old friend yesterday."
+      ],
+      "answerParts": [
+        "met"
+      ],
+      "answer": "met",
+      "headword": "meet",
+      "meaning": "会う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "meets; met; met",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I met my old friend yesterday.",
+      "exampleTranslation": "私は昨日、昔の友人に会いました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "met"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00044",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00044",
+      "label": "英単語",
+      "japanese": "その列車は7時に出発します。",
+      "parts": [
+        "The train ",
+        {
+          "blank": 0
+        },
+        " at seven."
+      ],
+      "answerParts": [
+        "leaves"
+      ],
+      "answer": "leaves",
+      "headword": "leave",
+      "meaning": "去る、出発する、残す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "leaves; left; left",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "「去る」「出発する」「置き忘れる」の多義。",
+      "example": "The train leaves at seven.",
+      "exampleTranslation": "その列車は7時に出発します。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "残す、置き忘れる",
+      "acceptedAnswers": [
+        "leaves"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00045",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00045",
+      "label": "英単語",
+      "japanese": "私たちは早く駅に着きました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " at the station early."
+      ],
+      "answerParts": [
+        "arrived"
+      ],
+      "answer": "arrived",
+      "headword": "arrive",
+      "meaning": "到着する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "arrives; arrived; arrived",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We arrived at the station early.",
+      "exampleTranslation": "私たちは早く駅に着きました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "arrived"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00046",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00046",
+      "label": "英単語",
+      "japanese": "授業は9時に始まります。",
+      "parts": [
+        "The class ",
+        {
+          "blank": 0
+        },
+        " at nine."
+      ],
+      "answerParts": [
+        "starts"
+      ],
+      "answer": "starts",
+      "headword": "start",
+      "meaning": "始める、始まる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "starts; started; started",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "The class starts at nine.",
+      "exampleTranslation": "授業は9時に始まります。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "出発する、～し始める",
+      "acceptedAnswers": [
+        "starts"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00047",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00047",
+      "label": "英単語",
+      "japanese": "雨が降り始めました。",
+      "parts": [
+        "It ",
+        {
+          "blank": 0
+        },
+        " to rain."
+      ],
+      "answerParts": [
+        "began"
+      ],
+      "answer": "began",
+      "headword": "begin",
+      "meaning": "始める、始まる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "begins; began; begun",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "It began to rain.",
+      "exampleTranslation": "雨が降り始めました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～し始める",
+      "acceptedAnswers": [
+        "began"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00048",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00048",
+      "label": "英単語",
+      "japanese": "私は宿題を終えました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " my homework."
+      ],
+      "answerParts": [
+        "finished"
+      ],
+      "answer": "finished",
+      "headword": "finish",
+      "meaning": "終える、終わる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "finishes; finished; finished",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I finished my homework.",
+      "exampleTranslation": "私は宿題を終えました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "finished"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00049",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00049",
+      "label": "英単語",
+      "japanese": "窓を開けてください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " the window, please."
+      ],
+      "answerParts": [
+        "Open"
+      ],
+      "answer": "Open",
+      "headword": "open",
+      "meaning": "開ける、開く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "opens; opened; opened",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Open the window, please.",
+      "exampleTranslation": "窓を開けてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "開店する、開いている",
+      "acceptedAnswers": [
+        "Open"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00050",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00050",
+      "label": "英単語",
+      "japanese": "静かにドアを閉めてください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " the door quietly."
+      ],
+      "answerParts": [
+        "close"
+      ],
+      "answer": "close",
+      "headword": "close",
+      "meaning": "閉める、閉じる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "closes; closed; closed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please close the door quietly.",
+      "exampleTranslation": "静かにドアを閉めてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "閉店する、近い",
+      "acceptedAnswers": [
+        "close"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00051",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00051",
+      "label": "英単語",
+      "japanese": "本をテーブルの上に置いてください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " the books on the table."
+      ],
+      "answerParts": [
+        "Put"
+      ],
+      "answer": "Put",
+      "headword": "put",
+      "meaning": "置く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "puts; put; put",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "活用形がすべて同形。",
+      "example": "Put the books on the table.",
+      "exampleTranslation": "本をテーブルの上に置いてください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "表現する、置く",
+      "acceptedAnswers": [
+        "Put"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00052",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00052",
+      "label": "英単語",
+      "japanese": "部屋をきれいに保ちなさい。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " the room clean."
+      ],
+      "answerParts": [
+        "Keep"
+      ],
+      "answer": "Keep",
+      "headword": "keep",
+      "meaning": "保つ、持ち続ける",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "keeps; kept; kept",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "keep + O + C、keep doing などが重要。",
+      "example": "Keep the room clean.",
+      "exampleTranslation": "部屋をきれいに保ちなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "保つ、飼う、続ける",
+      "acceptedAnswers": [
+        "Keep"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00053",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00053",
+      "label": "英単語",
+      "japanese": "明日ノートを持って来てください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " your notebook tomorrow."
+      ],
+      "answerParts": [
+        "bring"
+      ],
+      "answer": "bring",
+      "headword": "bring",
+      "meaning": "持って来る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "brings; brought; brought",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please bring your notebook tomorrow.",
+      "exampleTranslation": "明日ノートを持って来てください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "もたらす",
+      "acceptedAnswers": [
+        "bring"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00054",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00054",
+      "label": "英単語",
+      "japanese": "彼女は私のためにかばんを運びました。",
+      "parts": [
+        "She ",
+        {
+          "blank": 0
+        },
+        " the bag for me."
+      ],
+      "answerParts": [
+        "carried"
+      ],
+      "answer": "carried",
+      "headword": "carry",
+      "meaning": "運ぶ",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "carries; carried; carried",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "She carried the bag for me.",
+      "exampleTranslation": "彼女は私のためにかばんを運びました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "身に付ける、伝える",
+      "acceptedAnswers": [
+        "carried"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00055",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00055",
+      "label": "英単語",
+      "japanese": "私は母へのプレゼントを買いました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " a present for my mother."
+      ],
+      "answerParts": [
+        "bought"
+      ],
+      "answer": "bought",
+      "headword": "buy",
+      "meaning": "買う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "buys; bought; bought",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "buy + 人 + 物 / buy + 物 + for + 人。",
+      "example": "I bought a present for my mother.",
+      "exampleTranslation": "私は母へのプレゼントを買いました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "bought"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00056",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00056",
+      "label": "英単語",
+      "japanese": "ここでは新鮮な野菜を売っています。",
+      "parts": [
+        "They ",
+        {
+          "blank": 0
+        },
+        " fresh vegetables here."
+      ],
+      "answerParts": [
+        "sell"
+      ],
+      "answer": "sell",
+      "headword": "sell",
+      "meaning": "売る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "sells; sold; sold",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "They sell fresh vegetables here.",
+      "exampleTranslation": "ここでは新鮮な野菜を売っています。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "sell"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00057",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00057",
+      "label": "英単語",
+      "japanese": "私はその本に500円払いました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " five hundred yen for the book."
+      ],
+      "answerParts": [
+        "paid"
+      ],
+      "answer": "paid",
+      "headword": "pay",
+      "meaning": "支払う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "pays; paid; paid",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "pay + 金額 + for + 物。",
+      "example": "I paid five hundred yen for the book.",
+      "exampleTranslation": "私はその本に500円払いました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "注意を払う",
+      "acceptedAnswers": [
+        "paid"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00058",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00058",
+      "label": "英単語",
+      "japanese": "私たちは公園で昼食を食べました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " lunch in the park."
+      ],
+      "answerParts": [
+        "ate"
+      ],
+      "answer": "ate",
+      "headword": "eat",
+      "meaning": "食べる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "eats; ate; eaten",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We ate lunch in the park.",
+      "exampleTranslation": "私たちは公園で昼食を食べました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "ate"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00059",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00059",
+      "label": "英単語",
+      "japanese": "十分に水を飲みなさい。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " enough water."
+      ],
+      "answerParts": [
+        "Drink"
+      ],
+      "answer": "Drink",
+      "headword": "drink",
+      "meaning": "飲む",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "drinks; drank; drunk",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Drink enough water.",
+      "exampleTranslation": "十分に水を飲みなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "飲酒する",
+      "acceptedAnswers": [
+        "Drink"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00060",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00060",
+      "label": "英単語",
+      "japanese": "兄は料理が上手です。",
+      "parts": [
+        "My brother can ",
+        {
+          "blank": 0
+        },
+        " well."
+      ],
+      "answerParts": [
+        "cook"
+      ],
+      "answer": "cook",
+      "headword": "cook",
+      "meaning": "料理する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "cooks; cooked; cooked",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "My brother can cook well.",
+      "exampleTranslation": "兄は料理が上手です。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "cook"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00061",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00061",
+      "label": "英単語",
+      "japanese": "夕食前に手を洗いなさい。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " your hands before dinner."
+      ],
+      "answerParts": [
+        "Wash"
+      ],
+      "answer": "Wash",
+      "headword": "wash",
+      "meaning": "洗う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "washes; washed; washed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Wash your hands before dinner.",
+      "exampleTranslation": "夕食前に手を洗いなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "Wash"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00062",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00062",
+      "label": "英単語",
+      "japanese": "私たちは教室を掃除しました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " our classroom."
+      ],
+      "answerParts": [
+        "cleaned"
+      ],
+      "answer": "cleaned",
+      "headword": "clean",
+      "meaning": "掃除する、きれいにする",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "cleans; cleaned; cleaned",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We cleaned our classroom.",
+      "exampleTranslation": "私たちは教室を掃除しました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "cleaned"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00063",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00063",
+      "label": "英単語",
+      "japanese": "私は8時間眠りました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " for eight hours."
+      ],
+      "answerParts": [
+        "slept"
+      ],
+      "answer": "slept",
+      "headword": "sleep",
+      "meaning": "眠る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "sleeps; slept; slept",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I slept for eight hours.",
+      "exampleTranslation": "私は8時間眠りました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "slept"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00064",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00064",
+      "label": "英単語",
+      "japanese": "私は6時に目を覚ましました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " up at six."
+      ],
+      "answerParts": [
+        "woke"
+      ],
+      "answer": "woke",
+      "headword": "wake",
+      "meaning": "目を覚ます、起こす",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "wakes; woke; woken",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I woke up at six.",
+      "exampleTranslation": "私は6時に目を覚ましました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "woke"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00065",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00065",
+      "label": "英単語",
+      "japanese": "一列に並んで立ってください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " in a line."
+      ],
+      "answerParts": [
+        "stand"
+      ],
+      "answer": "stand",
+      "headword": "stand",
+      "meaning": "立つ",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "stands; stood; stood",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please stand in a line.",
+      "exampleTranslation": "一列に並んで立ってください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "我慢する、意味する",
+      "acceptedAnswers": [
+        "stand"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00066",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00066",
+      "label": "英単語",
+      "japanese": "座ってくつろいでください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " down and relax."
+      ],
+      "answerParts": [
+        "Sit"
+      ],
+      "answer": "Sit",
+      "headword": "sit",
+      "meaning": "座る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "sits; sat; sat",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Sit down and relax.",
+      "exampleTranslation": "座ってくつろいでください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "Sit"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00067",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00067",
+      "label": "英単語",
+      "japanese": "その家族は大阪へ引っ越しました。",
+      "parts": [
+        "The family ",
+        {
+          "blank": 0
+        },
+        " to Osaka."
+      ],
+      "answerParts": [
+        "moved"
+      ],
+      "answer": "moved",
+      "headword": "move",
+      "meaning": "動く、引っ越す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "moves; moved; moved",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "The family moved to Osaka.",
+      "exampleTranslation": "その家族は大阪へ引っ越しました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "感動させる、引っ越す",
+      "acceptedAnswers": [
+        "moved"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00068",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00068",
+      "label": "英単語",
+      "japanese": "バスは学校の前で止まりました。",
+      "parts": [
+        "The bus ",
+        {
+          "blank": 0
+        },
+        " in front of the school."
+      ],
+      "answerParts": [
+        "stopped"
+      ],
+      "answer": "stopped",
+      "headword": "stop",
+      "meaning": "止める、止まる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "stops; stopped; stopped",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "The bus stopped in front of the school.",
+      "exampleTranslation": "バスは学校の前で止まりました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "stopped"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00069",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00069",
+      "label": "英単語",
+      "japanese": "角を左に曲がってください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " left at the corner."
+      ],
+      "answerParts": [
+        "Turn"
+      ],
+      "answer": "Turn",
+      "headword": "turn",
+      "meaning": "曲がる、回す、～になる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "turns; turned; turned",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Turn left at the corner.",
+      "exampleTranslation": "角を左に曲がってください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～になる、向きを変える",
+      "acceptedAnswers": [
+        "Turn"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00070",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00070",
+      "label": "英単語",
+      "japanese": "私はその問題を解こうとします。",
+      "parts": [
+        "I will ",
+        {
+          "blank": 0
+        },
+        " to solve the problem."
+      ],
+      "answerParts": [
+        "try"
+      ],
+      "answer": "try",
+      "headword": "try",
+      "meaning": "試す、努力する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "tries; tried; tried",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I will try to solve the problem.",
+      "exampleTranslation": "私はその問題を解こうとします。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "試着する、努力する",
+      "acceptedAnswers": [
+        "try"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00071",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00071",
+      "label": "英単語",
+      "japanese": "最もよい答えを選びなさい。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " the best answer."
+      ],
+      "answerParts": [
+        "Choose"
+      ],
+      "answer": "Choose",
+      "headword": "choose",
+      "meaning": "選ぶ",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "chooses; chose; chosen",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "choice",
+      "notes": "",
+      "example": "Choose the best answer.",
+      "exampleTranslation": "最もよい答えを選びなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "Choose"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00072",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00072",
+      "label": "英単語",
+      "japanese": "私たちはその部に入ることを決めました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " to join the club."
+      ],
+      "answerParts": [
+        "decided"
+      ],
+      "answer": "decided",
+      "headword": "decide",
+      "meaning": "決める",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "decides; decided; decided",
+      "irregularVerbTarget": "",
+      "wordFamily": "decision",
+      "notes": "",
+      "example": "We decided to join the club.",
+      "exampleTranslation": "私たちはその部に入ることを決めました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "decided"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00073",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00073",
+      "label": "英単語",
+      "japanese": "彼らは奈良を訪れる予定です。",
+      "parts": [
+        "They ",
+        {
+          "blank": 0
+        },
+        " to visit Nara."
+      ],
+      "answerParts": [
+        "plan"
+      ],
+      "answer": "plan",
+      "headword": "plan",
+      "meaning": "計画する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "plans; planned; planned",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "They plan to visit Nara.",
+      "exampleTranslation": "彼らは奈良を訪れる予定です。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "plan"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00074",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00074",
+      "label": "英単語",
+      "japanese": "早く元気になることを願っています。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " you will feel better soon."
+      ],
+      "answerParts": [
+        "hope"
+      ],
+      "answer": "hope",
+      "headword": "hope",
+      "meaning": "望む",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "hopes; hoped; hoped",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I hope you will feel better soon.",
+      "exampleTranslation": "早く元気になることを願っています。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "期待する、望む",
+      "acceptedAnswers": [
+        "hope"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00075",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00075",
+      "label": "英単語",
+      "japanese": "飛べたらいいのにと思います。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " I could fly."
+      ],
+      "answerParts": [
+        "wish"
+      ],
+      "answer": "wish",
+      "headword": "wish",
+      "meaning": "願う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 4,
+      "writingImportance": 4,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "wishes; wished; wished",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I wish I could fly.",
+      "exampleTranslation": "飛べたらいいのにと思います。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～ならよいのにと思う",
+      "acceptedAnswers": [
+        "wish"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00076",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00076",
+      "label": "英単語",
+      "japanese": "ドアに鍵をかけるのを忘れないでください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " to lock the door."
+      ],
+      "answerParts": [
+        "Remember"
+      ],
+      "answer": "Remember",
+      "headword": "remember",
+      "meaning": "覚えている、思い出す",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "remembers; remembered; remembered",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Remember to lock the door.",
+      "exampleTranslation": "ドアに鍵をかけるのを忘れないでください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "忘れずに～する",
+      "acceptedAnswers": [
+        "Remember"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00077",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00077",
+      "label": "英単語",
+      "japanese": "傘を忘れないでください。",
+      "parts": [
+        "Don't ",
+        {
+          "blank": 0
+        },
+        " your umbrella."
+      ],
+      "answerParts": [
+        "forget"
+      ],
+      "answer": "forget",
+      "headword": "forget",
+      "meaning": "忘れる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "forgets; forgot; forgotten",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Don't forget your umbrella.",
+      "exampleTranslation": "傘を忘れないでください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～するのを忘れる",
+      "acceptedAnswers": [
+        "forget"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00078",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00078",
+      "label": "英単語",
+      "japanese": "あなたの言いたいことが分かります。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " what you mean."
+      ],
+      "answerParts": [
+        "understand"
+      ],
+      "answer": "understand",
+      "headword": "understand",
+      "meaning": "理解する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "understands; understood; understood",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I understand what you mean.",
+      "exampleTranslation": "あなたの言いたいことが分かります。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "understand"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00079",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00079",
+      "label": "英単語",
+      "japanese": "私は彼女が正直だと信じています。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " that she is honest."
+      ],
+      "answerParts": [
+        "believe"
+      ],
+      "answer": "believe",
+      "headword": "believe",
+      "meaning": "信じる、思う",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "believes; believed; believed",
+      "irregularVerbTarget": "",
+      "wordFamily": "belief",
+      "notes": "",
+      "example": "I believe that she is honest.",
+      "exampleTranslation": "私は彼女が正直だと信じています。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "believe"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00080",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00080",
+      "label": "英単語",
+      "japanese": "今日は疲れを感じます。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " tired today."
+      ],
+      "answerParts": [
+        "feel"
+      ],
+      "answer": "feel",
+      "headword": "feel",
+      "meaning": "感じる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "feels; felt; felt",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I feel tired today.",
+      "exampleTranslation": "今日は疲れを感じます。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～のように感じる",
+      "acceptedAnswers": [
+        "feel"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00081",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00081",
+      "label": "英単語",
+      "japanese": "彼は医師になりました。",
+      "parts": [
+        "He ",
+        {
+          "blank": 0
+        },
+        " a doctor."
+      ],
+      "answerParts": [
+        "became"
+      ],
+      "answer": "became",
+      "headword": "become",
+      "meaning": "～になる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "becomes; became; become",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "He became a doctor.",
+      "exampleTranslation": "彼は医師になりました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～に似合う",
+      "acceptedAnswers": [
+        "became"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00082",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00082",
+      "label": "英単語",
+      "japanese": "彼女はとても忙しそうです。",
+      "parts": [
+        "She ",
+        {
+          "blank": 0
+        },
+        " very busy."
+      ],
+      "answerParts": [
+        "seems"
+      ],
+      "answer": "seems",
+      "headword": "seem",
+      "meaning": "～のように思われる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 4,
+      "writingImportance": 4,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "受容＋発信",
+      "inflection": "seems; seemed; seemed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "She seems very busy.",
+      "exampleTranslation": "彼女はとても忙しそうです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "seems"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00083",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00083",
+      "label": "英単語",
+      "japanese": "昨日何が起こりましたか。",
+      "parts": [
+        "What ",
+        {
+          "blank": 0
+        },
+        " yesterday?"
+      ],
+      "answerParts": [
+        "happened"
+      ],
+      "answer": "happened",
+      "headword": "happen",
+      "meaning": "起こる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 4,
+      "writingImportance": 4,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "受容＋発信",
+      "inflection": "happens; happened; happened",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "What happened yesterday?",
+      "exampleTranslation": "昨日何が起こりましたか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "happened"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00084",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00084",
+      "label": "英単語",
+      "japanese": "天気が急に変わりました。",
+      "parts": [
+        "The weather ",
+        {
+          "blank": 0
+        },
+        " suddenly."
+      ],
+      "answerParts": [
+        "changed"
+      ],
+      "answer": "changed",
+      "headword": "change",
+      "meaning": "変える、変わる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "changes; changed; changed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "The weather changed suddenly.",
+      "exampleTranslation": "天気が急に変わりました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "交換する、乗り換える",
+      "acceptedAnswers": [
+        "changed"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00085",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00085",
+      "label": "英単語",
+      "japanese": "子どもはすぐに成長します。",
+      "parts": [
+        "Children ",
+        {
+          "blank": 0
+        },
+        " quickly."
+      ],
+      "answerParts": [
+        "grow"
+      ],
+      "answer": "grow",
+      "headword": "grow",
+      "meaning": "育つ、増える",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "grows; grew; grown",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "growth",
+      "notes": "",
+      "example": "Children grow quickly.",
+      "exampleTranslation": "子どもはすぐに成長します。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "栽培する、増える",
+      "acceptedAnswers": [
+        "grow"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00086",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00086",
+      "label": "英単語",
+      "japanese": "彼らは新しい橋を建てました。",
+      "parts": [
+        "They ",
+        {
+          "blank": 0
+        },
+        " a new bridge."
+      ],
+      "answerParts": [
+        "built"
+      ],
+      "answer": "built",
+      "headword": "build",
+      "meaning": "建てる、築く",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "builds; built; built",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "building",
+      "notes": "",
+      "example": "They built a new bridge.",
+      "exampleTranslation": "彼らは新しい橋を建てました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "built"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00087",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00087",
+      "label": "英単語",
+      "japanese": "ガラスを割らないように気を付けなさい。",
+      "parts": [
+        "Be careful not to ",
+        {
+          "blank": 0
+        },
+        " the glass."
+      ],
+      "answerParts": [
+        "break"
+      ],
+      "answer": "break",
+      "headword": "break",
+      "meaning": "壊す、破る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "breaks; broke; broken",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Be careful not to break the glass.",
+      "exampleTranslation": "ガラスを割らないように気を付けなさい。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "破る、中断する",
+      "acceptedAnswers": [
+        "break"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00088",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00088",
+      "label": "英単語",
+      "japanese": "紙を二つに切ってください。",
+      "parts": [
+        "",
+        {
+          "blank": 0
+        },
+        " the paper into two pieces."
+      ],
+      "answerParts": [
+        "Cut"
+      ],
+      "answer": "Cut",
+      "headword": "cut",
+      "meaning": "切る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "cuts; cut; cut",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Cut the paper into two pieces.",
+      "exampleTranslation": "紙を二つに切ってください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "Cut"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00089",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00089",
+      "label": "英単語",
+      "japanese": "私は先生にメールを送りました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " an email to my teacher."
+      ],
+      "answerParts": [
+        "sent"
+      ],
+      "answer": "sent",
+      "headword": "send",
+      "meaning": "送る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "sends; sent; sent",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I sent an email to my teacher.",
+      "exampleTranslation": "私は先生にメールを送りました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "行かせる",
+      "acceptedAnswers": [
+        "sent"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00090",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00090",
+      "label": "英単語",
+      "japanese": "私たちはよい知らせを受け取りました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " good news."
+      ],
+      "answerParts": [
+        "received"
+      ],
+      "answer": "received",
+      "headword": "receive",
+      "meaning": "受け取る",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 4,
+      "writingImportance": 4,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "receives; received; received",
+      "irregularVerbTarget": "",
+      "wordFamily": "reception",
+      "notes": "",
+      "example": "We received good news.",
+      "exampleTranslation": "私たちはよい知らせを受け取りました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "received"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00091",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00091",
+      "label": "英単語",
+      "japanese": "ここで少し待ってください。",
+      "parts": [
+        "Please ",
+        {
+          "blank": 0
+        },
+        " here for a moment."
+      ],
+      "answerParts": [
+        "wait"
+      ],
+      "answer": "wait",
+      "headword": "wait",
+      "meaning": "待つ",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "waits; waited; waited",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Please wait here for a moment.",
+      "exampleTranslation": "ここで少し待ってください。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "wait"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00092",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00092",
+      "label": "英単語",
+      "japanese": "私たちのチームは試合に勝ちました。",
+      "parts": [
+        "Our team ",
+        {
+          "blank": 0
+        },
+        " the game."
+      ],
+      "answerParts": [
+        "won"
+      ],
+      "answer": "won",
+      "headword": "win",
+      "meaning": "勝つ、獲得する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "wins; won; won",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Our team won the game.",
+      "exampleTranslation": "私たちのチームは試合に勝ちました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "獲得する",
+      "acceptedAnswers": [
+        "won"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00093",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00093",
+      "label": "英単語",
+      "japanese": "私は財布をなくしました。",
+      "parts": [
+        "I ",
+        {
+          "blank": 0
+        },
+        " my wallet."
+      ],
+      "answerParts": [
+        "lost"
+      ],
+      "answer": "lost",
+      "headword": "lose",
+      "meaning": "失う、負ける",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "loses; lost; lost",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I lost my wallet.",
+      "exampleTranslation": "私は財布をなくしました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "負ける、道に迷う",
+      "acceptedAnswers": [
+        "lost"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00094",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00094",
+      "label": "英単語",
+      "japanese": "彼女は音楽部に入りました。",
+      "parts": [
+        "She ",
+        {
+          "blank": 0
+        },
+        " the music club."
+      ],
+      "answerParts": [
+        "joined"
+      ],
+      "answer": "joined",
+      "headword": "join",
+      "meaning": "参加する、加わる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "joins; joined; joined",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "She joined the music club.",
+      "exampleTranslation": "彼女は音楽部に入りました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "つなぐ、合流する",
+      "acceptedAnswers": [
+        "joined"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00095",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00095",
+      "label": "英単語",
+      "japanese": "私たちは古い寺を訪れました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " an old temple."
+      ],
+      "answerParts": [
+        "visited"
+      ],
+      "answer": "visited",
+      "headword": "visit",
+      "meaning": "訪れる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "visits; visited; visited",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We visited an old temple.",
+      "exampleTranslation": "私たちは古い寺を訪れました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "visited"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00096",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00096",
+      "label": "英単語",
+      "japanese": "私は世界中を旅行したいです。",
+      "parts": [
+        "I want to ",
+        {
+          "blank": 0
+        },
+        " around the world."
+      ],
+      "answerParts": [
+        "travel"
+      ],
+      "answer": "travel",
+      "headword": "travel",
+      "meaning": "旅行する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 4,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 4,
+      "receptionProduction": "発信",
+      "inflection": "travels; traveled/travelled; traveled/travelled",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "I want to travel around the world.",
+      "exampleTranslation": "私は世界中を旅行したいです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "travel"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00097",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00097",
+      "label": "英単語",
+      "japanese": "毎日練習するべきです。",
+      "parts": [
+        "You should ",
+        {
+          "blank": 0
+        },
+        " every day."
+      ],
+      "answerParts": [
+        "practice"
+      ],
+      "answer": "practice",
+      "headword": "practice",
+      "meaning": "練習する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "practices; practiced; practiced",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "You should practice every day.",
+      "exampleTranslation": "毎日練習するべきです。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "practice"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00098",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00098",
+      "label": "英単語",
+      "japanese": "私たちは文化祭を楽しみました。",
+      "parts": [
+        "We ",
+        {
+          "blank": 0
+        },
+        " the school festival."
+      ],
+      "answerParts": [
+        "enjoyed"
+      ],
+      "answer": "enjoyed",
+      "headword": "enjoy",
+      "meaning": "楽しむ",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "小学校",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "enjoys; enjoyed; enjoyed",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "We enjoyed the school festival.",
+      "exampleTranslation": "私たちは文化祭を楽しみました。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "enjoyed"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00099",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00099",
+      "label": "英単語",
+      "japanese": "この単語はどういう意味ですか。",
+      "parts": [
+        "What does this word ",
+        {
+          "blank": 0
+        },
+        "?"
+      ],
+      "answerParts": [
+        "mean"
+      ],
+      "answer": "mean",
+      "headword": "mean",
+      "meaning": "意味する",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中1",
+      "importance": 5,
+      "writingImportance": 5,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "発信",
+      "inflection": "means; meant; meant",
+      "irregularVerbTarget": "対象",
+      "wordFamily": "",
+      "notes": "動詞「意味する」と形容詞「意地悪な」がある。",
+      "example": "What does this word mean?",
+      "exampleTranslation": "この単語はどういう意味ですか。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "～するつもりである",
+      "acceptedAnswers": [
+        "mean"
+      ]
+    },
+    {
+      "enabled": true,
+      "id": "W-E00100",
+      "category": "word",
+      "kind": "cloze",
+      "sourceId": "E00100",
+      "label": "英単語",
+      "japanese": "小さな行動一つ一つが重要です。",
+      "parts": [
+        "Every small action ",
+        {
+          "blank": 0
+        },
+        "."
+      ],
+      "answerParts": [
+        "matters"
+      ],
+      "answer": "matters",
+      "headword": "matter",
+      "meaning": "重要である、問題となる",
+      "partOfSpeech": "動詞",
+      "firstAppearance": "中2",
+      "importance": 4,
+      "writingImportance": 3,
+      "readingImportance": 5,
+      "examImportance": 5,
+      "receptionProduction": "受容＋発信",
+      "inflection": "matters; mattered; mattered",
+      "irregularVerbTarget": "",
+      "wordFamily": "",
+      "notes": "",
+      "example": "Every small action matters.",
+      "exampleTranslation": "小さな行動一つ一つが重要です。",
+      "selectionCategory": "最重要基礎語",
+      "importantSecondaryMeaning": "",
+      "acceptedAnswers": [
+        "matters"
+      ]
+    }
+  ]
+}
