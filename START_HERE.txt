@@ -1,2 +1,3 @@
-index.html と questions.json を同じフォルダに置き、WebサーバーまたはGitHub Pagesで開いてください。
-ローカル確認例: python3 -m http.server 8000
+中3英語アプリ 試作版 v0.2
+
+フォルダ内の index.html を、questions.json と同じ場所からWebサーバー経由で開いてください。

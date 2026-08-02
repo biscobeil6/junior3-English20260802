@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "0.1",
-  "datasetVersion": "prototype-2026-08-02",
+  "schemaVersion": "0.2",
+  "datasetVersion": "prototype-2026-08-02-v0.2",
   "title": "中3英語アプリ 試作版",
   "counts": {
     "word": 12,
@@ -904,7 +904,14 @@
       "sourceId": "SE0051",
       "label": "重要英文・定型表現",
       "japanese": "もう一度言っていただけますか。",
-      "answer": "Could you say that again?"
+      "answer": "Could you say that again?",
+      "wordBank": [
+        "again",
+        "could",
+        "that",
+        "you",
+        "say"
+      ]
     },
     {
       "enabled": true,
@@ -914,7 +921,13 @@
       "sourceId": "SE0009",
       "label": "重要英文・定型表現",
       "japanese": "遅れてすみません。",
-      "answer": "I'm sorry I'm late."
+      "answer": "I'm sorry I'm late.",
+      "wordBank": [
+        "I'm",
+        "late",
+        "sorry",
+        "I'm"
+      ]
     },
     {
       "enabled": true,
@@ -924,7 +937,15 @@
       "sourceId": "SE0015",
       "label": "重要英文・定型表現",
       "japanese": "もう一度言っていただけますか。",
-      "answer": "Would you mind saying that again?"
+      "answer": "Would you mind saying that again?",
+      "wordBank": [
+        "again",
+        "mind",
+        "that",
+        "would",
+        "saying",
+        "you"
+      ]
     },
     {
       "enabled": true,
@@ -934,7 +955,18 @@
       "sourceId": "SE0028",
       "label": "重要英文・定型表現",
       "japanese": "私があなたなら、彼女に話します。",
-      "answer": "If I were you, I would talk to her."
+      "answer": "If I were you, I would talk to her.",
+      "wordBank": [
+        "talk",
+        "would",
+        "if",
+        "her",
+        "you",
+        "I",
+        "to",
+        "were",
+        "I"
+      ]
     },
     {
       "enabled": true,
@@ -944,7 +976,15 @@
       "sourceId": "SE0106",
       "label": "重要英文・定型表現",
       "japanese": "窓を閉めていただけますか。",
-      "answer": "Would you mind closing the window?"
+      "answer": "Would you mind closing the window?",
+      "wordBank": [
+        "the",
+        "mind",
+        "window",
+        "would",
+        "closing",
+        "you"
+      ]
     },
     {
       "enabled": true,
@@ -954,7 +994,16 @@
       "sourceId": "SE0127",
       "label": "重要英文・定型表現",
       "japanese": "どのくらいこのような状態なのですか。",
-      "answer": "How long have you felt this way?"
+      "answer": "How long have you felt this way?",
+      "wordBank": [
+        "this",
+        "long",
+        "you",
+        "way",
+        "have",
+        "how",
+        "felt"
+      ]
     },
     {
       "enabled": true,
@@ -964,7 +1013,16 @@
       "sourceId": "SE0180",
       "label": "重要英文・定型表現",
       "japanese": "両方の側面を考えることが重要です。",
-      "answer": "It is important to consider both sides."
+      "answer": "It is important to consider both sides.",
+      "wordBank": [
+        "both",
+        "important",
+        "consider",
+        "is",
+        "sides",
+        "to",
+        "it"
+      ]
     },
     {
       "enabled": true,
@@ -974,7 +1032,18 @@
       "sourceId": "SE0198",
       "label": "重要英文・定型表現",
       "japanese": "この方法は、より速いだけでなく、より安全でもあります。",
-      "answer": "This method is not only faster but also safer."
+      "answer": "This method is not only faster but also safer.",
+      "wordBank": [
+        "safer",
+        "only",
+        "method",
+        "also",
+        "but",
+        "faster",
+        "not",
+        "is",
+        "this"
+      ]
     },
     {
       "enabled": true,
@@ -984,7 +1053,18 @@
       "sourceId": "SE0214",
       "label": "重要英文・定型表現",
       "japanese": "決まり次第お知らせします。",
-      "answer": "I'll let you know as soon as I decide."
+      "answer": "I'll let you know as soon as I decide.",
+      "wordBank": [
+        "decide",
+        "you",
+        "soon",
+        "as",
+        "I'll",
+        "know",
+        "let",
+        "I",
+        "as"
+      ]
     },
     {
       "enabled": true,
@@ -994,7 +1074,17 @@
       "sourceId": "SE0233",
       "label": "重要英文・定型表現",
       "japanese": "窓を開けてもよろしいですか。",
-      "answer": "Would you mind if I opened the window?"
+      "answer": "Would you mind if I opened the window?",
+      "wordBank": [
+        "opened",
+        "if",
+        "mind",
+        "the",
+        "would",
+        "window",
+        "I",
+        "you"
+      ]
     },
     {
       "enabled": true,
@@ -1004,7 +1094,16 @@
       "sourceId": "SE0321",
       "label": "重要英文・定型表現",
       "japanese": "お待たせして申し訳ありません。",
-      "answer": "I'm sorry to have kept you waiting."
+      "answer": "I'm sorry to have kept you waiting.",
+      "wordBank": [
+        "waiting",
+        "sorry",
+        "kept",
+        "you",
+        "have",
+        "I'm",
+        "to"
+      ]
     },
     {
       "enabled": true,
@@ -1014,7 +1113,20 @@
       "sourceId": "SE0438",
       "label": "重要英文・定型表現",
       "japanese": "残念ですが、雨のため、その試合は中止になりました。",
-      "answer": "I'm afraid the game has been canceled because of the rain."
+      "answer": "I'm afraid the game has been canceled because of the rain.",
+      "wordBank": [
+        "rain",
+        "game",
+        "because",
+        "afraid",
+        "the",
+        "of",
+        "canceled",
+        "I'm",
+        "has",
+        "been",
+        "the"
+      ]
     }
   ]
 }
