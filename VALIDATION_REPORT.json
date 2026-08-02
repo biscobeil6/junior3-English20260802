@@ -1,49 +1,115 @@
 {
-  "version": "v3.0",
-  "generatedAt": "2026-08-02",
-  "sourceWorkbook": "中3英語_不規則動詞マスター_完成版(5).xlsx",
-  "sourceSheet": "不規則動詞マスター",
-  "sourceRows": 77,
-  "idRange": [
-    "IV0001",
-    "IV0077"
-  ],
-  "questionsAdded": {
-    "irregular-conjugation": 77,
-    "irregular-example": 77
-  },
-  "exampleTargetFormDistribution": {
-    "base": 32,
-    "pastParticiple": 5,
-    "past": 35,
-    "thirdPerson": 5
-  },
-  "specialAlternativeFormIds": [
-    "IV0006",
-    "IV0064",
-    "IV0070",
-    "IV0077"
-  ],
-  "finalCounts": {
+  "appVersion": "4.0",
+  "generatedAt": "2026-08-02T22:00:00+09:00",
+  "sourceWorkbook": "中3英語_熟語・連語マスター_PH0001-PH0900_4マスター横断照合完了版(2).xlsx",
+  "sourceSheet": "熟語・連語マスター",
+  "sourceCount": 900,
+  "counts": {
     "word": 2400,
     "irregular-conjugation": 77,
     "irregular-example": 77,
-    "phrase": 12,
+    "phrase": 900,
     "sentence": 500,
-    "total": 3066
+    "total": 3954
+  },
+  "categoryCountsCalculated": {
+    "word": 2400,
+    "phrase": 900,
+    "sentence": 500,
+    "irregular-conjugation": 77,
+    "irregular-example": 77
   },
   "checks": {
-    "jsonParsed": true,
-    "questionIdDuplicates": 0,
-    "conjugationSourceIdsComplete": true,
-    "exampleSourceIdsComplete": true,
-    "missingRequiredConjugationFields": 0,
-    "missingRequiredExampleFields": 0,
-    "wordCountPreserved": true,
-    "sentenceCountPreserved": true,
-    "phraseSamplesPreserved": true,
-    "totalCountMatches": true,
-    "getPastDoesNotAcceptGotten": true,
-    "javascriptSyntax": "checked separately with node --check"
+    "phrase_count_900": true,
+    "phrase_id_unique": true,
+    "phrase_id_complete_and_ordered": true,
+    "app_id_unique": true,
+    "integrated_total_3954": true,
+    "category_counts_match": true,
+    "excel_core_fields_exact": true,
+    "parts_reconstruct_example_exact": true,
+    "blank_indexes_valid": true,
+    "all_enabled": true,
+    "all_phrase_required_fields": true,
+    "word_maintained": true,
+    "sentence_maintained": true,
+    "irregular_maintained": true
+  },
+  "allChecksPassed": true,
+  "jsonStructure": {
+    "phraseFields": [
+      "enabled",
+      "id",
+      "category",
+      "kind",
+      "sourceId",
+      "label",
+      "japanese",
+      "parts",
+      "answerParts",
+      "answer",
+      "headword",
+      "meaning",
+      "classification",
+      "grammar",
+      "firstAppearance",
+      "importance",
+      "writingImportance",
+      "examImportance",
+      "receptionProduction",
+      "example",
+      "exampleTranslation",
+      "notes",
+      "relatedExpression",
+      "acceptedAnswers"
+    ],
+    "multipleBlankQuestions": 188,
+    "singleBlankQuestions": 712
+  },
+  "individualProcessingIds": [
+    "PH0012",
+    "PH0020",
+    "PH0086",
+    "PH0114",
+    "PH0176",
+    "PH0177",
+    "PH0227",
+    "PH0232",
+    "PH0318",
+    "PH0363",
+    "PH0410",
+    "PH0411",
+    "PH0417",
+    "PH0452",
+    "PH0457",
+    "PH0539",
+    "PH0548",
+    "PH0581",
+    "PH0584",
+    "PH0668",
+    "PH0675",
+    "PH0682",
+    "PH0720",
+    "PH0775",
+    "PH0832"
+  ],
+  "individualProcessingReason": "省略可能なto、冠詞・形容詞の挿入、再帰代名詞、相関比較、cannot/could not、be以外の連結動詞など、単純な連続語一致では扱えないため個別ルールを適用。",
+  "storageCompatibility": {
+    "appKey": "juniorEnglishPrototype.v0.3",
+    "changed": false
+  },
+  "runtimeChecks": {
+    "jsonParse": "passed",
+    "javascriptSyntax": "passed (node --check)",
+    "zipExtract": "passed",
+    "browserManualRequired": [
+      "iPad横向きの一画面表示",
+      "Apple Pencil手書き",
+      "一つ戻す・全消去",
+      "○△×保存",
+      "ページ再読み込み後の保存",
+      "周回・ランダム・苦手復習・履歴・成績リセット"
+    ],
+    "staticServerFetch": "passed (index.html / questions.json / phrases JSON)"
   }
 }
