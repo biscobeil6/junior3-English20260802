@@ -1,154 +1,49 @@
 {
-  "title": "英単語 E00001-E02400 完成版 自動検査報告",
-  "version": "v2.0",
-  "summary": {
-    "passed": 20,
-    "total": 20,
-    "allPassed": true,
-    "integratedQuestionCount": 2936
+  "version": "v3.0",
+  "generatedAt": "2026-08-02",
+  "sourceWorkbook": "中3英語_不規則動詞マスター_完成版(5).xlsx",
+  "sourceSheet": "不規則動詞マスター",
+  "sourceRows": 77,
+  "idRange": [
+    "IV0001",
+    "IV0077"
+  ],
+  "questionsAdded": {
+    "irregular-conjugation": 77,
+    "irregular-example": 77
+  },
+  "exampleTargetFormDistribution": {
+    "base": 32,
+    "pastParticiple": 5,
+    "past": 35,
+    "thirdPerson": 5
+  },
+  "specialAlternativeFormIds": [
+    "IV0006",
+    "IV0064",
+    "IV0070",
+    "IV0077"
+  ],
+  "finalCounts": {
+    "word": 2400,
+    "irregular-conjugation": 77,
+    "irregular-example": 77,
+    "phrase": 12,
+    "sentence": 500,
+    "total": 3066
   },
   "checks": {
-    "master_id_continuity": {
-      "passed": true,
-      "detail": "E00001–E02400, 2,400件"
-    },
-    "json_id_continuity": {
-      "passed": true,
-      "detail": "E00001–E02400"
-    },
-    "no_duplicate_word_question_ids": {
-      "passed": true,
-      "detail": "2,400/2,400 unique"
-    },
-    "required_master_fields_nonblank": {
-      "passed": true,
-      "detail": "英単語・意味・例文・例文訳"
-    },
-    "master_json_core_match": {
-      "passed": true,
-      "detail": "ID・見出し語・意味・例文・訳が一致"
-    },
-    "metadata_alignment": {
-      "passed": true,
-      "detail": "品詞・重要度類"
-    },
-    "cloze_reconstructs_original": {
-      "passed": true,
-      "detail": "2,400/2,400"
-    },
-    "answers_nonblank": {
-      "passed": true,
-      "detail": "2,400/2,400"
-    },
-    "accepted_answers_present": {
-      "passed": true,
-      "detail": "2,400/2,400"
-    },
-    "merged_word_count": {
-      "passed": true,
-      "detail": "2,400"
-    },
-    "existing_sentence_count_preserved": {
-      "passed": true,
-      "detail": "500"
-    },
-    "existing_other_samples_preserved": {
-      "passed": true,
-      "detail": "不規則動詞12+12、熟語12"
-    },
-    "all_question_ids_unique": {
-      "passed": true,
-      "detail": "2936 unique"
-    },
-    "integrated_total_count": {
-      "passed": true,
-      "detail": "2,936問"
-    },
-    "round_no_duplicate_invariant": {
-      "passed": true,
-      "detail": "同一周回はseen IDで除外可能"
-    },
-    "forbidden_guidance_absent": {
-      "passed": true,
-      "detail": "指定2文なし"
-    },
-    "duplicate_standalone_word_answer_removed": {
-      "passed": true,
-      "detail": "正解は例文内の赤字表示のみ"
-    },
-    "handwriting_persistence_logic_present": {
-      "passed": true,
-      "detail": "回答表示時にstrokesを消去しない"
-    },
-    "rating_and_storage_logic_present": {
-      "passed": true,
-      "detail": "○△×・履歴・周回保存コード"
-    },
-    "json_parse": {
-      "passed": true,
-      "detail": "vocabulary / questions とも正常"
-    }
-  },
-  "individualProcessing": {
-    "manualTargetSelectionIds": [
-      "E00003",
-      "E01078",
-      "E01431",
-      "E01446",
-      "E01743",
-      "E01745",
-      "E01818",
-      "E01901",
-      "E01926",
-      "E01961",
-      "E02085",
-      "E02093",
-      "E02098",
-      "E02105",
-      "E02109",
-      "E02130",
-      "E02155",
-      "E02158",
-      "E02165",
-      "E02197",
-      "E02208",
-      "E02231",
-      "E02264",
-      "E02269",
-      "E02270",
-      "E02277",
-      "E02298",
-      "E02377"
-    ],
-    "manualTargetSelectionCount": 28,
-    "inflectedOrCapitalizedAnswerCount": 571,
-    "note": "例文原文の語形・文頭大文字を正解に採用。派生形・複数形・比較級など、候補照合だけで一意に決まらない27件は例文と見出し語の関係を個別確認した。"
-  },
-  "displayChange": {
-    "detail": "英単語の回答後、例文内の正解語形を赤字表示し、単独の正解語形表示は削除。見出し語・品詞・意味はその下に表示。"
-  },
-  "browserTest": {
-    "status": "実機確認推奨",
-    "note": "JSON整合性・静的ロジック・JavaScript構文検査を実施。iPadで手書き入力、回答後の一画面収まり、2,400問のモード選択を最終確認してください。"
-  },
-  "columnMapping": {
-    "単語ID": "sourceId",
-    "英単語": "headword",
-    "品詞": "partOfSpeech",
-    "中核的な意味": "meaning",
-    "初出目安": "firstAppearance",
-    "総合重要度": "importance",
-    "書き取り重要度": "writingImportance",
-    "読解重要度": "readingImportance",
-    "入試重要度": "examImportance",
-    "発信／受容": "receptionProduction",
-    "活用・語形": "inflection",
-    "不規則動詞対象": "irregularVerbTarget",
-    "語族・関連語": "wordFamily",
-    "注意事項": "notes",
-    "例文": "example / parts",
-    "例文訳": "exampleTranslation / japanese",
-    "選定区分": "selectionCategory",
-    "重要な別義": "importantSecondaryMeaning"
+    "jsonParsed": true,
+    "questionIdDuplicates": 0,
+    "conjugationSourceIdsComplete": true,
+    "exampleSourceIdsComplete": true,
+    "missingRequiredConjugationFields": 0,
+    "missingRequiredExampleFields": 0,
+    "wordCountPreserved": true,
+    "sentenceCountPreserved": true,
+    "phraseSamplesPreserved": true,
+    "totalCountMatches": true,
+    "getPastDoesNotAcceptGotten": true,
+    "javascriptSyntax": "checked separately with node --check"
   }
 }
